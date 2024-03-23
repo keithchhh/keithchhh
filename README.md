@@ -1,7 +1,5 @@
 ## 👋 Hi there, I’m Keith Chau!
 
-Passionate about how data can transform our society, I'm Keith, a final year Business Analytics post-graduate at Seneca College. Currently seeking Analyst/ Business Intelligence Roles.
-
 I am...
 - 🚀 Innovation-focused, with internships in Google, the start-up ecosystem (startups, accelerators, venture capital) and more...
 - 💼 2+ years of experience in Business Development and Analytics 
