@@ -4,12 +4,12 @@
 - 🌎 Exploring the world through data, one dataset at a time!
 
 ## ✨ Software Skills:
-Python, SQL, SAS, R, Tableau, PowerBI, Microsoft Excel, Salesforce
+Python, SQL, SAS, R, Tableau, PowerBI, Microsoft Excel, Salesforce, VBA
 
 ## ⚡ Projects:
 **Safe Roads Competition 2024 Grand Champion:** Led team of three analytics students in improving cyclist safety by analyzing Toronto Police geospatial traffic collision data using Python, SAS, and Tableau.
 
-**Canadian Lottery Economics:** Python web-scraped to analyze lottery demand and expected return. Identified which lottery has the highest average return and at which Jackpot value points.
+**Canadian Lottery Economics:** Python web-scraped to analyze lottery demand and expected return. Identified which lottery has the highest average return and at which Jackpot value points. Using NumPy, Pandas, Matplotlib, Seaborn, and Statistics libraries to plot expected return at different jackpot levels.
 
 ## 🌱 Certifications
 Google Advanced Data Analytics Certificate 2024
