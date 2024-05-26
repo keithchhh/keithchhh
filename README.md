@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Keith Chau!
 - 🚀 Innovation-focused, with internships in Google, the start-up ecosystem (startups, accelerators, venture capital) and more...
-- 💼 2+ years of experience in Business Development and Analytics 
+- 💼 2+ years of experience in Business Intelligence and Analytics 
 - 🌎 Exploring the world through data, one dataset at a time!
 
 ## ✨ Software Skills:
