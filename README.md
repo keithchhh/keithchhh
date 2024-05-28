@@ -4,7 +4,8 @@
 - 🌎 Exploring the world through data, one dataset at a time!
 
 ## ✨ Software Skills:
-Python, SQL, SAS, R, Tableau, PowerBI, Microsoft Excel, Salesforce, VBA
+Coding Languages: Python, SQL, SAS, R, VBA
+Visualization Tools: PowerBI, Tableau, Salesforce, Microsoft Excel
 
 ## ⚡ Projects:
 **Safe Roads Competition 2024 Grand Champion:** Led team of three analytics students in improving cyclist safety by analyzing Toronto Police geospatial traffic collision data using Python, SAS, and Tableau.
