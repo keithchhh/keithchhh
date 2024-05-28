@@ -5,6 +5,7 @@
 
 ## ✨ Software Skills:
 Coding Languages: Python, SQL, SAS, R, VBA
+
 Visualization Tools: PowerBI, Tableau, Salesforce, Microsoft Excel
 
 ## ⚡ Projects:
