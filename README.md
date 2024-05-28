@@ -16,6 +16,10 @@ Visualization Tools: PowerBI, Tableau, Salesforce, Microsoft Excel
 • Deployed advanced predictive models, leveraging techniques such as regression, decision trees,
 random forest, XGBoost, to accurately forecast employee turnover risk and influencing factors.
 
+**Marketing A/B Testing & Polynomial Regression:**
+• Conducted A/B Testing on marketing campaigns, evaluating CTR, engagement, ROAS metrics.
+• Developed polynomial regression model to identify optimum spend for marketing objectives.
+
 **Webscraping Lottery Analysis:** Python web-scraped to analyze lottery demand and expected return. Identified which lottery has the highest average return and at which Jackpot value points. Using NumPy, Pandas, Matplotlib, Seaborn, and Statistics libraries to plot expected return at different jackpot levels.
 
 ## 🌱 Certifications
